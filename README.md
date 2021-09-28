@@ -1,6 +1,7 @@
 ### Opa. Meu nome é Gabriel Westphal!!!
 
 🎒 Atualmente estudando Python
+
 💡  Querendo aprender HTML e Java
 
 <div align="center">
